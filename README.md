@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxliyoAbbosxonova&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxliyoAbbosxonova)
 
-![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxliyoAbbosxonova)
+
 
 ## 🐍 Contribution Snake
 
