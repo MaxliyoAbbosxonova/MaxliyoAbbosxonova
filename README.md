@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Maxliyo
 
-<!--
-**MaxliyoAbbosxonova/MaxliyoAbbosxonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer  
+🐍 Python & Django Learner  
+🛢 PostgreSQL • Docker • Redis  
+🌱 Currently learning backend architecture
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxliyoAbbosxonova&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxliyoAbbosxonova&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/MaxliyoAbbosxonova/MaxliyoAbbosxonova/blob/output/github-contribution-grid-snake.svg)
