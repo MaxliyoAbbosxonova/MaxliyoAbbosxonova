@@ -23,4 +23,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake dark](https://raw.githubusercontent.com/USERNAME/REPO/output/github-contribution-grid-snake-dark.svg)
+![snake dark](https://raw.githubusercontent.com/MaxliyoAbbosxonova/REPO/output/github-contribution-grid-snake-dark.svg)
