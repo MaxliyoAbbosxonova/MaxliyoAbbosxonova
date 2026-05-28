@@ -15,11 +15,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxliyoAbbosxonova)
-
-
 
 ## 🐍 Contribution Snake
 
